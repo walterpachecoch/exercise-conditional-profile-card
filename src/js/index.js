@@ -52,7 +52,7 @@ function render(variables = {}) {
                     <li><a href="https://github.com/${
                       variables.github
                     }" target=”_blank”><i class="fa fa-github"></i></a></li>
-                    <li><a href="https://linkedin.com/${
+                    <li><a href="https://linkedin.com/in/${
                       variables.linkedin
                     }" target=”_blank”><i class="fa fa-linkedin"></i></a></li>
                     <li><a href="https://instagram.com/${
